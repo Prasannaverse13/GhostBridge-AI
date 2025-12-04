@@ -2,13 +2,7 @@
 
 <div align="center">
 
-![GhostBridge AI](https://img.shields.io/badge/GhostBridge-AI-gold?style=for-the-badge&logo=shield&logoColor=black)
-![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
-
 **A comprehensive privacy-focused platform integrating 9 specialized AI workflows for Zcash and cross-chain privacy operations**
-
-[Features](#-features) | [Architecture](#-architecture) | [Workflows](#-9-privacy-workflows) | [Tech Stack](#-tech-stack) | [API Reference](#-api-reference)
 
 </div>
 
@@ -488,16 +482,9 @@ npm run build
 
 ---
 
-## License
-
-MIT License - See LICENSE file for details.
-
----
-
 <div align="center">
 
 **Built with privacy in mind**
 
-[Report Bug](https://github.com/your-repo/issues) | [Request Feature](https://github.com/your-repo/issues)
 
 </div>
